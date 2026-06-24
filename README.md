@@ -2,7 +2,7 @@
 
 A simple Java CLI application for tracking tasks in a JSON file.
 
-**Repository:** [https://github.com/dharmendra-kumarYadav/Tast-tracker](https://github.com/dharmendra-kumarYadav/Tast-tracker)
+project URL: [https://roadmap.sh/projects/task-tracker]
 
 ## Overview
 
